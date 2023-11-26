@@ -1,6 +1,6 @@
-<img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
-## 快乐6+1
+
+## 快乐6+1😁
 
 ### 自我介绍
 
