@@ -26,3 +26,6 @@
 ### Github 状态图
 [![](https://activity-graph.herokuapp.com/graph?username=happy6jia1&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![happy6jia1's github stats](https://github-readme-stats.vercel.app/api?username=happy6jia1&show_icons=true&theme=tokyonight)
+
+### Github 贡献图
+[![happy6jia1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=happy6jia1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
