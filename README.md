@@ -7,9 +7,9 @@
 
 <div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
 
-- 大家好，我是🐟，来自广东河源
+- 大家好，我是🐟，来自广东🍵
 - 对嵌入式方面感兴趣
-- 欢迎光临我的Github 🍧
+- 欢迎光临我的Github🥂
 
 ### 社交主页
 - <a href="http://liu2023.cn/"><img height="22" width="22" src="https://blogblog-1322568013.cos.ap-guangzhou.myqcloud.com/image/%E5%8F%AF%E4%B9%90.webp"></a>：个人网站
