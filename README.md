@@ -10,7 +10,7 @@
 - 欢迎光临我的Github 🍧
 
 ### 社交主页
-- <a href="https://www.fomal.cc"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站
+- <a href="http://liu2023.cn/"><img height="22" width="22" src="http://liu2023.cn"></a>：个人网站
 
 
 ### 技术栈
