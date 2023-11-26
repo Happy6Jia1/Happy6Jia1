@@ -10,7 +10,7 @@
 - 欢迎光临我的Github 🍧
 
 ### 社交主页
-- <a href="http://liu2023.cn/"><img height="22" width="22" src="[http://liu2023.cn](https://blogblog-1322568013.cos.ap-guangzhou.myqcloud.com/image/%E5%8F%AF%E4%B9%90.webp)"></a>：个人网站
+- <a href="http://liu2023.cn/"><img height="22" width="22" src="https://blogblog-1322568013.cos.ap-guangzhou.myqcloud.com/image/%E5%8F%AF%E4%B9%90.webp"></a>：个人网站
 
 
 ### 技术栈
